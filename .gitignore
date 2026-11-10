@@ -1,0 +1,10 @@
+# згенеровані шари даних (будуються: python -m src.pipeline)
+data/bronze/
+data/silver/
+data/gold/
+
+# оточення та службові файли
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

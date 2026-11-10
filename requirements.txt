@@ -1,0 +1,11 @@
+# Python 3.12; версії, на яких ноутбук перевірено
+pandas==3.1.1
+numpy==2.5.4
+matplotlib==3.11.2
+statsmodels==0.15.0
+scikit-learn==1.9.1
+scipy==1.18.1
+openpyxl==3.1.5
+pyarrow==26.0.1
+pulp==2.9.0
+ipykernel
