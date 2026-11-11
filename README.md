@@ -22,10 +22,7 @@
 │   ├── optimization.py  # сценарії попиту, ЛП поповнення складу (PuLP)
 │   └── plots.py         # графіки для ноутбука
 ├── notebooks/
-│   └── project_progress.ipynb   # Project Progress: 4 блоки, читає тільки готові шари
-└── reports/
-    ├── presentation.pptx
-    └── speech.md                # текст до відеоогляду
+   └── project_progress.ipynb   # Project Progress: 4 блоки, читає тільки готові шари
 ```
 
 Правило шарів: ML-код (`validation`, `models`, `optimization`) читає **тільки gold**.
